@@ -529,7 +529,7 @@ ul.sign li a i {
 }
 
 .text-bg h1 {
-     color: #fff;
+     color: #2e3135;
      font-size: 60px;
      line-height: 70px;
      font-weight: bold;
@@ -548,13 +548,13 @@ ul.sign li a i {
      line-height: 28px;
      padding-bottom: 70px;
      display: block;
-     color: #fff;
+     color: #2e3135;
      font-size: 17px;
 }
 
 .text-bg a {
      font-size: 25px;
-     color: #fff;
+     color: #2e3135;
      font-weight: 600;
      text-align: left;
      display: inline-block;
