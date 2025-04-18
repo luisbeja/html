@@ -1242,7 +1242,7 @@ ul.social_icont li a {
 /** footer **/
 
 .footer {
-     padding-top: 90px;
+     padding-top: 60px;
      background: url(../images/footer_bg.jpg);
      background-size: 100% 100%;
      background-repeat: no-repeat;
@@ -1330,7 +1330,7 @@ ul.link_icon li {
 }
 
 ul.link_icon li.active a {
-     color: #acaba9;
+     color: #ea6b3a;
 }
 
 ul.link_icon li a {
@@ -1342,7 +1342,7 @@ ul.link_icon li a {
 }
 
 ul.link_icon li a:hover {
-     color: #acaba9;
+     color: #e7cab5;
 }
 
 ul.img_icon {
