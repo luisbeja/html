@@ -1255,7 +1255,7 @@ ul.social_icont li a {
 }
 
 .footer h3 {
-     color: #fff;
+     color: #2e3135;
      font-weight: 600;
      font-size: 20px;
      line-height: 30px;
@@ -1271,7 +1271,7 @@ ul.location_icon {
 ul.location_icon li {
      font-size: 18px;
      line-height: 30px;
-     color: #fff;
+     color: #2e3135;
      text-align: left;
      padding-bottom: 26px;
      float: left;
@@ -1284,7 +1284,7 @@ ul.location_icon li a i {
 
 ul.location_icon li a {
      font-size: 25px;
-     color: #fff;
+     color: #2e3135;
      line-height: 35px;
 }
 
@@ -1334,7 +1334,7 @@ ul.link_icon li.active a {
 }
 
 ul.link_icon li a {
-     color: #fff;
+     color: #2e3135;
      float: left;
      text-align: left;
      line-height: 20px;
