@@ -391,9 +391,9 @@ ul.social_icon1 li:last-child {
      display: block;
 }
 
-.d_none1 {
+/*.d_none1 {
      text-align: right;
-}
+}*/
 
 ul.conta_icon li {
      display: inline-block;
@@ -654,7 +654,7 @@ ul.sign li a i {
 
 .about .titlepage {
      text-align: left;
-     padding-bottom: 25px;
+     padding-bottom: 0;
 }
 
 .about_img {
@@ -716,7 +716,7 @@ ul.sign li a i {
 .about .read_morea {
      margin-top: 7px;
      padding: 8px 0;
-     margin-left: 40px;
+     /*margin-left: 40px;*/
      background-color: #ea6b3a;
      max-width: 168px;
      width: 100%;
