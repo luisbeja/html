@@ -275,7 +275,44 @@ ul.btn li:last-child {
 
 
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
-
+.nav-item.dropdown:hover .dropdown-menu {
+     display: block;
+     margin-top: 100; /* para que no tenga espacio extra */
+  }
+  
+/* Solo afecta al menú de SERVICIOS */
+.menu-servicios {
+     position: relative;
+  }
+  
+  /* Fondo del dropdown */
+  .menu-servicios .dropdown-menu {
+     background-color: #343a40;
+     border: none;
+  }
+  
+  /* Color de las opciones */
+  .menu-servicios .dropdown-menu .dropdown-item {
+     color: #ffffff;
+  }
+  
+  /* Hover sobre opciones */
+  .menu-servicios .dropdown-menu .dropdown-item:hover {
+     color: #ea6b3a;
+  }
+  
+  /* Mostrar dropdown al hacer hover solo en SERVICIOS */
+  .menu-servicios:hover .dropdown-menu {
+     display: block;
+     margin-top: 0;
+  }
+  
+  /* Hover solo en "SERVICIOS" principal */
+  .menu-servicios > .nav-link:hover {
+     color: #ea6b3a;
+  }
+  
+  
 .header {
      width: 100%;
 }
